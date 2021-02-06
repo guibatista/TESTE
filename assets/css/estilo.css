@@ -1,0 +1,40 @@
+/* reset */
+* {margin: 0;
+    padding: 0;
+    box-sizing: border-box;}
+
+main{min-width: 600px; max-width: 1600px;}
+
+/* cabeçalho */
+header{position: fixed;
+        top: 0;
+        width:100%;
+        left: 0;
+        text-align: center;
+        background-color: aqua;
+        color: black;}
+
+/* rodapé */
+footer{position: fixed;
+        bottom: 0;
+        width: 100%;
+        left: 0;
+        text-align: center;
+        background-color: black;
+        color: aqua;}
+
+/* editor imagens */
+img{padding-top :115px;}
+
+#image1{ width: 120px;
+        height: 100px;
+        display: block;
+        }
+    
+#image2{width: 10%;
+        height: 10%;}
+
+
+#sec1{}
+
+#sec2{}
